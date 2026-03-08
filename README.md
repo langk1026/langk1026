@@ -1,6 +1,4 @@
-# Hi, I'm Lang Kah Chun (LKC) 👋
-
-> Full Stack Developer · AI Engineer · Data Engineer  
+> Full Stack Developer ? AI + Data Engineer  
 > Building production systems at the intersection of data, AI, and backend engineering.
 
 ---
