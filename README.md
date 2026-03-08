@@ -1,4 +1,6 @@
-> Full Stack Developer ? AI + Data Engineer  
+# Hi, LKC here👋
+
+> Full Stack Developer · AI Engineer · Data Engineer  
 > Building production systems at the intersection of data, AI, and backend engineering.
 
 ---
